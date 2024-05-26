@@ -1,0 +1,29 @@
+.image-container{
+    position: relative;
+}
+.image-container img{
+    height: 600px;
+}
+.overlayAbout{
+    position: absolute;
+    top: 450px;
+    bottom: 0;
+    left: 25px;
+    right: 10;
+    background-color: transparent; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding: 20px; 
+}
+.contentAbout p{
+    font-size: 1.2em;
+}
+
+#aboutText p{
+    font-size: 1.1em;
+}
+#aboutText{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

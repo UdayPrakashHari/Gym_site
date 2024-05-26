@@ -1,0 +1,50 @@
+.image-container {
+    position: relative;
+}
+.image-container img{
+    width: 100%;
+    height: 650px;
+}
+.overlayHome {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 10;
+    background-color: transparent; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding: 20px; 
+}
+
+.contentHome {
+    text-align: left;
+}
+.contentHome input{
+    height: 38px;
+    width: 300px;
+    margin-top: 5px;
+}
+.contentHome button{
+    height: 40px;
+}
+.contentHome p{
+    font-size: 1em;
+    margin: 10px 0px 0px 0px;
+}
+
+
+#sessionImg img{
+    width: 600px;
+    height: 400px;
+}
+
+
+#elite{
+    background: linear-gradient(135deg, purple, black);
+}
+#pro{
+    background: linear-gradient(135deg, #2E3192, #1bffff);
+}

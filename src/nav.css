@@ -1,0 +1,9 @@
+.container  li{
+    list-style-type: none;
+}
+
+.navbar-nav .nav-link:active {
+    color: #ffffff; 
+    background-color: #007bff; 
+    
+}
