@@ -16,7 +16,6 @@ const Home = () => {
                     <div className='overlayHome'>
                         <div className='contentHome'>
                             <p className='text-light my-3'>EXPERIENCE THE FITNESS</p>
-                            <p className='text-light my-3'>EXPERIENCE THE FITNESS</p>
                             <p className='text-light my-3'>AT BENGALURU'S FRIENDLIEST GYM IN RR NAGAR!</p>
                             <h1>JOIN FITNESS GYM TODAY</h1>
                             <input placeholder='Get Subscribed' /> <button className='btn btn-danger text-light' onClick={subscribe}>Subscribe</button>
